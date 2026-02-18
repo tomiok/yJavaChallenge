@@ -23,6 +23,8 @@ Esto levanta dos contenedores:
 
 La base de datos se inicializa automaticamente con el archivo `schema.sql`, que crea la tabla, el stored procedure y los datos de prueba.
 
+#### Ver apartado de SonarQube para correr con el perfil adecuado para el análisis.
+
 ### Detener los contenedores
 
 ```bash
